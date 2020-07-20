@@ -23,7 +23,7 @@ This is itch-and-scratch-ware. I had an itch, then I scratched it. Now it doesn'
 * It does not support writing ID3 tags back into the MP3 file (although it could).
 * It does not support formats beyond MP3 (e.g., AAC, M4A) (although it could).
 * It does not do anything with albums. Album metadata is generally a mess when it comes to homegrown databases (e.g., AcoustID).
-* Aim for perfection. We're using databases that were developed _outside_ the music industry, by music fans. If you're looking for data infallibility, be prepared to spend some coin on a [Gracenote](https://www.gracenote.com/music/music-recognition/) license.
+* It does not aim for perfection. We're using databases that were developed _outside_ the music industry, by music fans. If you're looking for data infallibility, be prepared to spend some coin on a [Gracenote](https://www.gracenote.com/music/music-recognition/) license. Having said that, my testing shows over 98% accuracy.
 
 ## Requirements
 
@@ -80,6 +80,10 @@ It's a very, very standard Python installation. However, it's **critical** that 
     ```
 
     Some of these dependencies are GPL-licensed. This will matter more in the "Licensing" section, at the end of this document.
+
+### Installation (Windows)
+
+TBD. I need to boot up my Windows VM and do some testing.
 
 ## Basic usage (macOS/Linux)
 
@@ -253,6 +257,10 @@ There may also be some files where Chromaprint cannot determine the acoustic fin
 ```
 
 Maybe you can try to identify it with [Shazam](https://www.shazam.com) or [SoundHound](https://www.soundhound.com)? Or (ahem) _obtain_ a better quality version of the file?
+
+### Basic usage (Windows)
+
+TBD. I need to boot up my Windows VM and do some testing.
 
 ## License
 
