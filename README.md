@@ -2,6 +2,10 @@
 
 A few hours worth of work to take MP3 files (which were probably acquired from Napster 20+ years ago), figure out what they actually are, then organize them into folders by artist.
 
+This will probably be useful if you are old-school and listen to music with [Winamp](https://winamp.com) or [VLC](https://www.videolan.org).
+
+Or maybe you want to stream your music from Plex (e.g., with [Plexamp](https://plexamp.com)) instead of using [Apple Music](https://music.apple.com), [Spotify](https://www.spotify.com), [Pandora](https://www.pandora.com), [YouTube Music](https://music.youtube.com), or one of the other popular streaming services since you already have the damn songs anyway.
+
 This is itch-and-scratch-ware. I had an itch, then I scratched it. Now it doesn't itch anymore. _Issues_ are disabled. You can submit a PR if you want to see something added, or you can fork it and do whatever you want with it.
 
 ## What does this do
