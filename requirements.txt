@@ -1,0 +1,6 @@
+fuzzywuzzy==0.18.0
+mutagen==1.45.0
+natsort==7.0.1
+pyacoustid==1.2.0
+python-Levenshtein==0.12.0
+yapf==0.30.0
