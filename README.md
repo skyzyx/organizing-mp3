@@ -35,7 +35,7 @@ It's a very, very standard Python installation. However, it's **critical** that 
 
 #### Activate an isolated `virtualenv` virtual environment
 
-> ℹ️**NOTE:** While I'm using `python3` and `pip3` in these instructions, they _may_ be called `python` or `pip` on your system. Adjust as necessary.
+> ℹ️ **NOTE:** While I'm using `python3` and `pip3` in these instructions, they _may_ be called `python` or `pip` on your system. Adjust as necessary.
 
 1. Install `virtualenv` using `pip`.
 
@@ -59,7 +59,7 @@ It's a very, very standard Python installation. However, it's **critical** that 
 
 #### Working inside your isolated `virtualenv` virtual environment
 
-> ℹ️**NOTE:** Now that we're _inside_ the isolated `virtualenv` virtual environment, `pip` is always called `pip`, and `python` is always called `python`. Don't worry about the `3`s anymore.
+> ℹ️ **NOTE:** Now that we're _inside_ the isolated `virtualenv` virtual environment, `pip` is always called `pip`, and `python` is always called `python`. Don't worry about the `3`s anymore.
 
 1. Validate that it's working. If you get a result, you're good.
 
@@ -77,7 +77,7 @@ It's a very, very standard Python installation. However, it's **critical** that 
 
 ## Basic usage (macOS/Linux)
 
-> ℹ️**NOTE:** This snippet assumes you're using GNU tools, which do not ship by default on macOS (which uses BSD tools). If you're using macOS, see “[Using GNU command line tools in macOS instead of FreeBSD tools](https://ryanparman.com/posts/2019/using-gnu-command-line-tools-in-macos-instead-of-freebsd-tools/)” for more information. This script should work without modification in common Linuxes, as well as the [Windows Subsystem for Linux (WSL2)](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
+> ℹ️ **NOTE:** This snippet assumes you're using GNU tools, which do not ship by default on macOS (which uses BSD tools). If you're using macOS, see “[Using GNU command line tools in macOS instead of FreeBSD tools](https://ryanparman.com/posts/2019/using-gnu-command-line-tools-in-macos-instead-of-freebsd-tools/)” for more information. This script should work without modification in common Linuxes, as well as the [Windows Subsystem for Linux (WSL2)](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
 
 This will automatically move/organize the MP3s into _artist_ folders (not _album artist_) and rename the files to match the _song title_.
 
