@@ -2,6 +2,8 @@
 
 A few hours worth of work to take MP3 files (which were probably acquired from Napster 20+ years ago), figure out what they actually are, then organize them into folders by artist.
 
+This is itch-and-scratch-ware. I had an itch, then I scratched it. Now it doesn't itch anymore. _Issues_ are disabled. You can submit a PR if you want to see something added, or you can fork it and do whatever you want with it.
+
 ## What does this do
 
 1. Use AcoustID to create an acoustic fingerprint and compare it to the MusicBrainz database.
